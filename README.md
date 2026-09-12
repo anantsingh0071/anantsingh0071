@@ -6,21 +6,16 @@ About Me
 
 🔭 I’m currently working on
 AI/ML projects that solve real-world problems using Python, Machine Learning, Deep Learning, and Generative AI.
-
 👯 I’m looking to collaborate on
 Interesting AI/ML projects, open-source work, and ideas where I can learn, contribute, and build something useful.
-
 🤝 I’m looking for help with
 Improving my knowledge of advanced AI/ML concepts, system design, and building production-ready AI applications.
-
 🌱 I’m currently learning
 Machine Learning, Deep Learning, Generative AI, RAG, LLM applications, FastAPI, and MLOps.
-
 💬 Ask me about
 Python, Machine Learning, AI, Generative AI, RAG, Data Structures & Algorithms, and the projects I’m building.
-
 ⚡ Fun fact
-I enjoy learning by building — if I want to understand something, I usually try to turn it into a project. 🚀
+I enjoy learning by building if I want to understand something, I usually try to turn it into a project. 🚀
 
 🌐 Socials:
 
