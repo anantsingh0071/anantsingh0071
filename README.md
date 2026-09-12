@@ -1,5 +1,28 @@
-# 💫 Hi, I'm Anant Singh:
-🔭 Currently working on: AI-powered applications, Generative AI, Machine Learning, and practical software projects.<br>🤝 Looking to collaborate on: AI/ML projects, open-source tools, intelligent applications, and innovative ideas.<br>🫱 Looking for help with: Building scalable AI systems, improving ML solutions, and taking ideas from concept to production.<br>🌱 Currently learning: Machine Learning, Generative AI, Agentic AI, LLMs, RAG, Semantic Kernel, and Microsoft Agent Framework.<br>💬 Ask me about: Python, Machine Learning, Generative AI, AI agents, RAG, and building AI-powered applications.<br>⚡ Fun fact: I enjoy turning ideas into working projects — and somehow debugging becomes part of the project. 😄
+#👋 Small Introduction
+
+Hi, I’m Anant Singh — an AI/ML enthusiast who enjoys turning ideas into practical projects. I’m currently exploring Machine Learning, Deep Learning, Generative AI, and Python while continuously building and learning through hands-on projects.
+
+About Me
+
+🔭 I’m currently working on
+AI/ML projects that solve real-world problems using Python, Machine Learning, Deep Learning, and Generative AI.
+
+👯 I’m looking to collaborate on
+Interesting AI/ML projects, open-source work, and ideas where I can learn, contribute, and build something useful.
+
+🤝 I’m looking for help with
+Improving my knowledge of advanced AI/ML concepts, system design, and building production-ready AI applications.
+
+🌱 I’m currently learning
+Machine Learning, Deep Learning, Generative AI, RAG, LLM applications, FastAPI, and MLOps.
+
+💬 Ask me about
+Python, Machine Learning, AI, Generative AI, RAG, Data Structures & Algorithms, and the projects I’m building.
+
+⚡ Fun fact
+I enjoy learning by building — if I want to understand something, I usually try to turn it into a project. 🚀
+
+🌐 Socials:
 
 
 ## 🌐 Socials:
