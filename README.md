@@ -1,8 +1,8 @@
-#👋 Small Introduction
+👋 Small Introduction
 
 Hi, I’m Anant Singh an AI/ML enthusiast who enjoys turning ideas into practical projects. I’m currently exploring Machine Learning, Deep Learning, Generative AI, and Python while continuously building and learning through hands-on projects.
 
-About Me
+About Me:
 
 🔭 I’m currently working on
 AI/ML projects that solve real-world problems using Python, Machine Learning, Deep Learning, and Generative AI.
